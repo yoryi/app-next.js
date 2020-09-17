@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
 
       <Head>
-        <title>App Wallet</title>
+        <title>APP CONSULTORIO</title>
         <link rel="icon" href="/app.ico" />
       </Head>
 
