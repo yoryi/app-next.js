@@ -25,7 +25,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' jorginho Ojeda'}
+          Powered by{' jorginho Ojeda de la cruz'}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
