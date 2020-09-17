@@ -7,27 +7,21 @@ export default function Home() {
 
       <Head>
         <title>App Wallet</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/app.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          APP CONSULTORIO
         </h1>
-
-
+        <a className={styles.parrafo}>Estamos trabajando en una app odontologica esperala pronto...</a>
  
       </main>
 
       <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' jorginho Ojeda de la cruz'}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
+    
+          <a className={styles.text_foster}>Powered by{' jorginho Ojeda'}</a>
+   
       </footer>
 
     </div>

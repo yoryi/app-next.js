@@ -5,6 +5,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #1E00C2;
 }
 
 .main {
@@ -50,6 +51,21 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  color: #00FFFF;
+}
+
+.parrafo {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 1rem;
+  color: #00FFFF;
+}
+
+.text_foster {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 1rem;
+  color: #00FFFF;
 }
 
 .title,
